@@ -12,7 +12,7 @@
 
 | Pilar                | Descrição                                                                                             |
 |----------------------|-------------------------------------------------------------------------------------------------------|
-| Ferramenta           | Google Sheets                                                                                         |
+| Ferramenta           | Google Sheets + Google Slides                                                                       |
 | Duração dos dados    | Trimestre: Outubro/2025, Novembro/2025, Dezembro/2025                                                |
 | Habilidades foco     | Coleta, tratamento, análise, visualização de dados e storytelling analítico                         |
 | Entrega principal    | Dashboard financeiro interativo + apresentação de até 30 minutos                                     |
