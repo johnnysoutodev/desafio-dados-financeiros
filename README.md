@@ -57,7 +57,7 @@ Por isso, antes de iniciar, você precisa me enviar um **aceite formal** por esc
 
 ---
 
-## 3. Objetivo do desafio
+## 3. Objetivo do desafio 🎯
 
 O objetivo principal é que você:
 
@@ -176,7 +176,9 @@ Após a conclusão do desafio, você deverá:
 
 ---
 
-## 9. Prazo de entrega
+## 9. Prazo de entrega 📅
+
+[![Prazo - 18/01/2026](https://img.shields.io/badge/Prazo-18%2F01%2F2026-critical)](#9-prazo-de-entrega)
 
 - **Data limite para conclusão do desafio:** **18/01/2026**  
 - Até esta data, você deve:
