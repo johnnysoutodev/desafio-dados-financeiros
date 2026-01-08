@@ -128,6 +128,7 @@ Crie tabelas dinâmicas (e, se necessário, colunas auxiliares) para obter pelo 
 7. **Volume investido ou poupado no trimestre, em %**  
    - Caso você tenha feito investimentos ou reservas, estime:  
      - Quanto do total de receitas foi investido/poupado (em percentual).
+8. **Distribuição de transações por tipo de pagamento** (ex.: PIX, transferência DOC/TED, débito, crédito, boleto, etc.).
 
 Você pode ajustar nomes, formatos e detalhes dessas análises desde que a **essência das informações** acima esteja presente.
 
