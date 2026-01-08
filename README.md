@@ -2,7 +2,7 @@
 # Desafio de Análise de Dados Financeiros Pessoais
 
 [![Status - Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)](#9-prazo-de-entrega)
-[![Nível - Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-blue)](#1-contexto)
+[![Nível - Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-blue)](#1-contexto)
 [![Ferramenta - Google Sheets](https://img.shields.io/badge/Ferramenta-Google%20Sheets-success)](#5-etapa-2--importa%C3%A7%C3%A3o-e-tratamento-no-google-sheets)
 [![Foco - Dados Pessoais](https://img.shields.io/badge/Foco-Dados%20Financeiros%20Pessoais-orange)](#1-contexto)
 
